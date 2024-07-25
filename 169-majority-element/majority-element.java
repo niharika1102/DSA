@@ -1,5 +1,6 @@
 class Solution {
     public int majorityElement(int[] nums) {
+        //O(n) space
         HashMap<Integer, Integer> hm = new HashMap<>();
         int count = nums.length / 2;
         int res = 0;
