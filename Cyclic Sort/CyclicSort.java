@@ -1,4 +1,4 @@
-class CyclicCort {
+class CyclicSort {
     public static void main(String[] args) {
         int arr[] = {4,2,3,5,1};
         int i = 0;
